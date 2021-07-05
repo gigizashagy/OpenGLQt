@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Textures/forge.png</file>
+        <file>Textures/smile.jpeg</file>
+        <file>Textures/grid.png</file>
+        <file>Textures/skyclouds.png</file>
+        <file>Textures/daylibox.png</file>
+        <file>Textures/Daylight Box UV.png</file>
+        <file>Textures/kisspng-skybox-texture-mapping-cube-mapping-landscape-watercolor-sky-5ac85ff2046588.146927361523081202018.jpg</file>
+        <file>Textures/Mettle_Skybox_Cubic_Cross.jpg</file>
+    </qresource>
+</RCC>
